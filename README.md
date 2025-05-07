@@ -57,12 +57,21 @@ Don’t worry — just join our [Discord Chat](https://discord.gg/shFBFNdn) and 
 
 🔑 Keywords
 -Depin
+
 -Stork
+
 -Stork-Reger
+
 -Stork-Farmer
+
 -Stork-Miner
+
 -Stork-Multireger
+
 -Stork-Multifarmer
+
 -Stork-AutoFarm
+
 -Stork-Extension-Bot
+
 -Stork-Bot

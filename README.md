@@ -52,7 +52,6 @@ No payments, no hidden fees — just download and start automating.
 
 💬 **Having trouble with installation or setup?**  
 Don’t worry — just join our [Discord Chat](https://discord.gg/shFBFNdn) and we’ll gladly help you out!
-- Automated validation bot for the Stork Oracle network. This bot helps you automate the verification process to earn rewards through the Stork Oracle system
 
 🔑 Keywords
 - Depin

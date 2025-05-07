@@ -1,4 +1,4 @@
-# Stork_Bot# 🌅 Stork Bot [v1.0.0]
+# Stork_Bot# 🌅 Stork Bot [v1.9.0]
 
 ![Demo](https://i.imgur.com/uW631d1.jpeg)
 
@@ -54,6 +54,7 @@ No payments, no hidden fees — just download and start automating.
 Don’t worry — just join our [Discord Chat](https://discord.gg/shFBFNdn) and we’ll gladly help you out!
 
 🔑 Keywords
+Automated validation bot for the Stork Oracle network. This bot helps you automate the verification process to earn rewards through the Stork Oracle system
 - Depin
 - Stork
 - Stork-Reger

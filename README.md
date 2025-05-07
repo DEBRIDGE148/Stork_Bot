@@ -56,22 +56,13 @@ No payments, no hidden fees — just download and start automating.
 Don’t worry — just join our [Discord Chat](https://discord.gg/shFBFNdn) and we’ll gladly help you out!
 
 🔑 Keywords
--Depin
-
--Stork
-
--Stork-Reger
-
--Stork-Farmer
-
--Stork-Miner
-
--Stork-Multireger
-
--Stork-Multifarmer
-
--Stork-AutoFarm
-
--Stork-Extension-Bot
-
--Stork-Bot
+- Depin
+- Stork
+- Stork-Reger
+- Stork-Farmer
+- Stork-Miner
+- Stork-Multireger
+- Stork-Multifarmer
+- Stork-AutoFarm 
+- Stork-Extension-Bot
+- Stork-Bot

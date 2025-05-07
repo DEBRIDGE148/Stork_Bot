@@ -18,9 +18,7 @@ No payments, no hidden fees — just download and start automating.
 
 - Download Stork Bot from the link provided. 
 - Run register accounts.
- 
-- Login accounts
- 
+- Run login accounts
 - Run farm accounts.
 
 ![Demo](https://i.imgur.com/pZ5rpy5.jpeg)
